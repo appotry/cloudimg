@@ -138,6 +138,7 @@ Procfile          text
 *.jpx             binary
 *.jxr             binary
 *.pdf             binary
+*.epub            binary
 *.png             binary
 *.psb             binary
 *.psd             binary
